@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "05e31c25e3cbcbee",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a726ba3eb74c371",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d64697b95771e13c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Töri/1. Ismétlés.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Ismétlés"
+            }
+          },
+          {
+            "id": "59ae8c4c9e1cf3c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Töri/2. Hunyadi Mátyás.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Hunyadi Mátyás"
+            }
+          },
+          {
+            "id": "a9be202cbf1a1deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Romantika.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Romantika"
+            }
+          },
+          {
+            "id": "4d9dddb71efc6658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Irodalom/2. Himnusz, Szózat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Himnusz, Szózat"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4514c36a11550c77",
+    "type": "split",
+    "children": [
+      {
+        "id": "97cc5468cb662a20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "238ab6f55a6a49fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "37553607035f127a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#-",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cb78c6f21024248b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313.5
+  },
+  "right": {
+    "id": "53c155c60700823e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f8d8cbd9d5ace82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c50a8002cea0db71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "3e8ccd30572d569c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "26a05c6c5e1342cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9a16786f575870be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Föci/3. Etnika.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3. Etnika"
+            }
+          },
+          {
+            "id": "731ba164cc9e422e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "sheet-plus:Create excel file": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "ketcher:Create new structure": false
+    }
+  },
+  "active": "238ab6f55a6a49fc",
+  "lastOpenFiles": [
+    "gitignore",
+    "Irodalom/1. Romantika.md",
+    "Irodalom/2. Himnusz, Szózat.md",
+    "Töri/2. Hunyadi Mátyás.md",
+    "Irodalom",
+    "Töri/1. Ismétlés.md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/6. Hunyadi János törökellenes hadjáratai.md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/7. Mátyás Király.md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/5. Oszmán birodalom és török terjeszkedés.md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/4. Városfejlődés Magyarországon.md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/3. Árpád ház kihalása (pt. 3).md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/2. Az Árpád ház kihalása (extended).md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/1. Az Árpád ház kihalása.md",
+    "Föci/2. Világgazdaság/2. Szervezetek/3. Összefoglalás.md",
+    "Föci/2. Világgazdaság/1. Pénz/12. Tőzsde = bőrze.md",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/REMIND HER ABOUT SZORGALMI.md",
+    "Föci/2. Világgazdaság/1. Pénz/7. A pénz.md",
+    "Föci/2. Világgazdaság/1. Pénz/8. Infláció.md",
+    "Föci/2. Világgazdaság/1. Pénz/6. Transznacionális Vállalatok.md",
+    "Föci/2. Világgazdaság/1. Pénz/5. Globalizáció.md",
+    "Föci/2. Világgazdaság/1. Pénz/4. Regionális Gazdasági Integrációk (RGI).md",
+    "Föci/2. Világgazdaság/1. Pénz/3. Gazdasági rendszerek.md",
+    "Föci/2. Világgazdaság/1. Pénz/2. Telepítő tényezők.md",
+    "Föci/2. Világgazdaság/1. Pénz/1. A fejlettség mérése.md",
+    "Föci/2. Világgazdaság/2. Szervezetek/2. Adósság válság.md",
+    "Föci/2. Világgazdaság/2. Szervezetek/1. Nemzetközi Szervezetek.md",
+    "Biosz/4. Szaporodás/3. Női nemi működés.md",
+    "Biosz/3. Életfolyamatok szabályozása/Assets/low_cortisol.png",
+    "Biosz/4. Szaporodás",
+    "Biosz/3. Életfolyamatok szabályozása/Assets",
+    "Pasted image 20260515095212.png",
+    "Föci/2. Világgazdaság/2. Szervezetek",
+    "Föci/2. Világgazdaság/1. Pénz",
+    "Szervezetek",
+    "Biosz/4. Szaporodás/Excalidraw",
+    "Biosz/3. Életfolyamatok szabályozása",
+    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása",
+    "Töri/3. A magyarság őstörténete/1. Árpád házi királyok kora",
+    "Föci/2. Világgazdaság/1. Pénz/Assets/guesswedoincirclesnow.png",
+    "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Assets/popcat.jpg",
+    "Irodalom/homework/20260209_141620.jpg",
+    "Irodalom/homework/20260209_141626.jpg",
+    "Irodalom/homework/20260209_141648.jpg",
+    "Irodalom/homework/20260209_141644.jpg",
+    "Ketcher/svgs/alkénből_alkin.svg",
+    "Ketcher/svgs/vinilklorid.svg"
+  ]
+}

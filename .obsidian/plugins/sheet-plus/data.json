@@ -1,0 +1,21 @@
+{
+  "showSheetButton": "true",
+  "folder": "/",
+  "excelFilenamePrefix": "Excel ",
+  "excelFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
+  "sheetHeight": "300",
+  "rowHeight": "25",
+  "colWidth": "100",
+  "authorizationCode": "",
+  "embedLinkShowFooter": "false",
+  "numberFormatLocal": "en",
+  "mobileRenderMode": "desktop",
+  "darkModal": "dark",
+  "isBigSheet": "false",
+  "fontFolder": "fonts",
+  "selectedFontName": "",
+  "aiModePlatform": "openai",
+  "aiModel": "gpt-5-mini",
+  "aiApiKey": "",
+  "aiBaseUrl": "https://api.openai.com/v1"
+}
