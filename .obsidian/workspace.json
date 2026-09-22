@@ -8,161 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d64697b95771e13c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/1. Ismétlés.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Ismétlés"
-            }
-          },
-          {
-            "id": "59ae8c4c9e1cf3c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/2. Hunyadi Mátyás.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Hunyadi Mátyás"
-            }
-          },
-          {
-            "id": "a9be202cbf1a1deb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Romantika.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Romantika"
-            }
-          },
-          {
-            "id": "4d9dddb71efc6658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/2. Hunyadi Mátyás.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Hunyadi Mátyás"
-            }
-          },
-          {
-            "id": "357241aaa0abe893",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/1. Magyar történelem/2. Hunyadi Mátyás.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Hunyadi Mátyás"
-            }
-          },
-          {
-            "id": "0bcf88e432f5878c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/1. Magyar történelem/1. Ismétlés.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Ismétlés"
-            }
-          },
-          {
-            "id": "8ea9ac6e33dc44de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/1. Magyar történelem/2. Hunyadi Mátyás.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Hunyadi Mátyás"
-            }
-          },
-          {
-            "id": "d72f6b1a20bfa595",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/2. Egyetemes történelem/1. Nagy földrajzi felfedezések.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Nagy földrajzi felfedezések"
-            }
-          },
-          {
-            "id": "98e274503e8fa22f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Irodalom/2. Himnusz, Szózat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Himnusz, Szózat"
-            }
-          },
-          {
             "id": "6b35cd034a4489cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Irodalom/3. Kölcsey Ferenc lírája.md",
+                "file": "Töri/2. Egyetemes történelem/2. Új földrész.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Kölcsey Ferenc lírája"
+              "title": "2. Új földrész"
             }
           },
           {
-            "id": "dfdcc0291fcd1df5",
+            "id": "fcbc35b9b69947d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Töri/2. Egyetemes történelem/1. Nagy földrajzi felfedezések.md",
+                "file": "Töri/2. Egyetemes történelem/3. Földrajzi felfedezések gazdasági és társadalmi hatásai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Nagy földrajzi felfedezések"
+              "title": "3. Földrajzi felfedezések gazdasági és társadalmi hatásai"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -326,16 +200,17 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "6b35cd034a4489cc",
+  "active": "fcbc35b9b69947d3",
   "lastOpenFiles": [
-    "szoveggyujtemeny.pdf",
-    "Irodalom/3. Kölcsey Ferenc lírája.md",
-    "Irodalom/2. Himnusz, Szózat.md",
     "Töri/2. Egyetemes történelem/2. Új földrész.md",
+    "Töri/2. Egyetemes történelem/3. Földrajzi felfedezések gazdasági és társadalmi hatásai.md",
     "Töri/2. Egyetemes történelem/1. Nagy földrajzi felfedezések.md",
-    "Nyelvtan/2. Nyelv.md",
-    "Töri/1. Magyar történelem/1. Ismétlés.md",
+    "Irodalom/2. Himnusz, Szózat.md",
     "Töri/1. Magyar történelem/2. Hunyadi Mátyás.md",
+    "Töri/1. Magyar történelem/1. Ismétlés.md",
+    "Irodalom/3. Kölcsey Ferenc lírája.md",
+    "szoveggyujtemeny.pdf",
+    "Nyelvtan/2. Nyelv.md",
     "Töri/1. Magyar történelem",
     "Töri/2. Egyetemes történelem",
     "Töri/3. Osztrák háborúk.md",
