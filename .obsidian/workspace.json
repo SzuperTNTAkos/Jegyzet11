@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Irodalom/4. Vörösmarty Mihály.md",
+                "file": "Nyelvtan/3. Stílusrétegek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Vörösmarty Mihály"
+              "title": "3. Stílusrétegek"
             }
           }
         ]
@@ -187,16 +187,17 @@
   },
   "active": "7f7db4065b864d29",
   "lastOpenFiles": [
-    "Irodalom/3. Kölcsey Ferenc lírája.md",
-    "Irodalom/4. Vörösmarty Mihály.md",
-    "Töri/2. Egyetemes történelem/5. Bőrze.md",
-    "Töri/2. Egyetemes történelem/4. Kapitalizmus.md",
     "Nyelvtan/2. Nyelv.md",
     "Nyelvtan/3. Stílusrétegek.md",
+    "Töri/2. Egyetemes történelem/5. Bőrze.md",
+    "Töri/0. Info.md",
+    "Töri/2. Egyetemes történelem/1. Nagy földrajzi felfedezések.md",
+    "Irodalom/4. Vörösmarty Mihály.md",
+    "Irodalom/3. Kölcsey Ferenc lírája.md",
+    "Töri/2. Egyetemes történelem/4. Kapitalizmus.md",
     "Töri/2. Egyetemes történelem/3. Földrajzi felfedezések gazdasági és társadalmi hatásai.md",
     "Töri/2. Egyetemes történelem/2. Új földrész.md",
     "graphviz template.md",
-    "Töri/2. Egyetemes történelem/1. Nagy földrajzi felfedezések.md",
     "Irodalom/2. Himnusz, Szózat.md",
     "Töri/1. Magyar történelem/2. Hunyadi Mátyás.md",
     "Töri/1. Magyar történelem/1. Ismétlés.md",
@@ -217,7 +218,6 @@
     "Föci/2. Világgazdaság/2. Szervezetek/3. Összefoglalás.md",
     "Föci/2. Világgazdaság/1. Pénz/12. Tőzsde = bőrze.md",
     "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/REMIND HER ABOUT SZORGALMI.md",
-    "Föci/2. Világgazdaság/1. Pénz/7. A pénz.md",
     "Biosz/3. Életfolyamatok szabályozása/Assets/low_cortisol.png",
     "Biosz/4. Szaporodás",
     "Biosz/3. Életfolyamatok szabályozása/Assets",
