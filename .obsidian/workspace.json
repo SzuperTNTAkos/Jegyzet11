@@ -22,17 +22,31 @@
             }
           },
           {
+            "id": "5aa5299fcd30a0c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Töri/2. Egyetemes történelem/9. Vallásháborúk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. Vallásháborúk"
+            }
+          },
+          {
             "id": "183c28d17d069df5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Töri/2. Egyetemes történelem/6. Reformáció.md",
+                "file": "Töri/2. Egyetemes történelem/9. Vallásháborúk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. Reformáció"
+              "title": "9. Vallásháborúk"
             }
           },
           {
@@ -119,7 +133,8 @@
               "title": "8. Vallásirányzatok"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -283,15 +298,17 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "7f7db4065b864d29",
+  "active": "183c28d17d069df5",
   "lastOpenFiles": [
-    "Irodalom/4. Vörösmarty Mihály.md",
+    "Töri/2. Egyetemes történelem/6. Reformáció.md",
+    "Töri/2. Egyetemes történelem/9. Vallásháborúk.md",
     "Töri/2. Egyetemes történelem/8. Vallásirányzatok.md",
+    "graphviz template.md",
+    "Irodalom/5. Csongor és Tünde.md",
+    "Irodalom/4. Vörösmarty Mihály.md",
     "Töri/2. Egyetemes történelem/7. Luther Márton.md",
     "Irodalom/7. Petőfi Sándor.md",
     "Irodalom/6. Rapszódia.md",
-    "Irodalom/5. Csongor és Tünde.md",
-    "Töri/2. Egyetemes történelem/6. Reformáció.md",
     "Nyelvtan/4. A nonverbális kommunikáció.md",
     "Nyelvtan/3. Stílusrétegek.md",
     "Nyelvtan/2. Nyelv.md",
@@ -302,7 +319,6 @@
     "Töri/2. Egyetemes történelem/4. Kapitalizmus.md",
     "Töri/2. Egyetemes történelem/3. Földrajzi felfedezések gazdasági és társadalmi hatásai.md",
     "Töri/2. Egyetemes történelem/2. Új földrész.md",
-    "graphviz template.md",
     "Irodalom/2. Himnusz, Szózat.md",
     "Töri/1. Magyar történelem/2. Hunyadi Mátyás.md",
     "Töri/1. Magyar történelem/1. Ismétlés.md",
@@ -315,7 +331,6 @@
     "Irodalom",
     "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/6. Hunyadi János törökellenes hadjáratai.md",
     "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/7. Mátyás Király.md",
-    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/5. Oszmán birodalom és török terjeszkedés.md",
     "Biosz/3. Életfolyamatok szabályozása/Assets/low_cortisol.png",
     "Biosz/4. Szaporodás",
     "Biosz/3. Életfolyamatok szabályozása/Assets",

@@ -4,7 +4,6 @@
   "obsidian-chartsview-plugin",
   "fast-text-color",
   "obsidian-text-format",
-  "obsidian-graphviz",
   "obsidian-git",
   "obsidian-regex-replace",
   "chem",
@@ -15,5 +14,6 @@
   "sheet-plus",
   "obsidian-desmos",
   "obsidian-style-settings",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "dot-diagrams"
 ]
