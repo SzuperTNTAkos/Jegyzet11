@@ -4,137 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6a726ba3eb74c371",
+        "id": "c24cba420316eef7",
         "type": "tabs",
         "children": [
           {
-            "id": "7f7db4065b864d29",
+            "id": "40cd16e8792aff6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Töri/2. Egyetemes történelem/8. Vallásirányzatok.md",
+                "file": "Töri/3. Magyar történelem II/1. Mohácsi vész.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Vallásirányzatok"
-            }
-          },
-          {
-            "id": "5aa5299fcd30a0c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/2. Egyetemes történelem/9. Vallásháborúk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. Vallásháborúk"
-            }
-          },
-          {
-            "id": "183c28d17d069df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/2. Egyetemes történelem/9. Vallásháborúk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. Vallásháborúk"
-            }
-          },
-          {
-            "id": "dbc4f39dd6a4be20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nyelvtan/3. Stílusrétegek.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Stílusrétegek"
-            }
-          },
-          {
-            "id": "3944400d457a5092",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/2. Egyetemes történelem/6. Reformáció.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Reformáció"
-            }
-          },
-          {
-            "id": "afd82f4b8e16f2e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Irodalom/5. Csongor és Tünde.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Csongor és Tünde"
-            }
-          },
-          {
-            "id": "ed925ec4efa8e54f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Irodalom/6. Rapszódia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Rapszódia"
-            }
-          },
-          {
-            "id": "6a2a431d0ed059c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/2. Egyetemes történelem/7. Luther Márton.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. Luther Márton"
-            }
-          },
-          {
-            "id": "6ad7fcc0c7979fc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/2. Egyetemes történelem/8. Vallásirányzatok.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "8. Vallásirányzatok"
+              "title": "1. Mohácsi vész"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,19 +185,21 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "183c28d17d069df5",
+  "active": "40cd16e8792aff6f",
   "lastOpenFiles": [
-    "Töri/2. Egyetemes történelem/6. Reformáció.md",
-    "Töri/2. Egyetemes történelem/9. Vallásháborúk.md",
     "Töri/2. Egyetemes történelem/8. Vallásirányzatok.md",
-    "graphviz template.md",
-    "Irodalom/5. Csongor és Tünde.md",
-    "Irodalom/4. Vörösmarty Mihály.md",
     "Töri/2. Egyetemes történelem/7. Luther Márton.md",
-    "Irodalom/7. Petőfi Sándor.md",
     "Irodalom/6. Rapszódia.md",
-    "Nyelvtan/4. A nonverbális kommunikáció.md",
+    "Irodalom/5. Csongor és Tünde.md",
+    "Töri/2. Egyetemes történelem/6. Reformáció.md",
     "Nyelvtan/3. Stílusrétegek.md",
+    "Töri/3. Magyar történelem II/1. Mohácsi vész.md",
+    "Töri/2. Egyetemes történelem/9. Vallásháborúk.md",
+    "Töri/3. Magyar történelem II",
+    "graphviz template.md",
+    "Irodalom/4. Vörösmarty Mihály.md",
+    "Irodalom/7. Petőfi Sándor.md",
+    "Nyelvtan/4. A nonverbális kommunikáció.md",
     "Nyelvtan/2. Nyelv.md",
     "Irodalom/3. Kölcsey Ferenc lírája.md",
     "Töri/2. Egyetemes történelem/5. Bőrze.md",
@@ -329,15 +218,12 @@
     "gitignore",
     "Irodalom/1. Romantika.md",
     "Irodalom",
-    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/6. Hunyadi János törökellenes hadjáratai.md",
-    "Töri/3. A magyarság őstörténete/2. Vegyesházi királyok uralkodása/7. Mátyás Király.md",
     "Biosz/3. Életfolyamatok szabályozása/Assets/low_cortisol.png",
     "Biosz/4. Szaporodás",
     "Biosz/3. Életfolyamatok szabályozása/Assets",
     "Pasted image 20260515095212.png",
     "Föci/2. Világgazdaság/2. Szervezetek",
     "Föci/2. Világgazdaság/1. Pénz",
-    "Szervezetek",
     "Föci/2. Világgazdaság/1. Pénz/Assets/guesswedoincirclesnow.png",
     "Biosz/2. Szervek és szervrendszerek/2. A keringés szervrendszere/Assets/popcat.jpg",
     "Irodalom/homework/20260209_141620.jpg",
