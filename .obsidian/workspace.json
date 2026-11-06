@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "9. Petőfi Sándor és a romantikus szabadságeszmény"
             }
+          },
+          {
+            "id": "68899593644503b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Töri/3. Magyar történelem II/3. Királyaink.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Királyaink"
+            }
+          },
+          {
+            "id": "7270876dbb6a5d30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Töri/3. Magyar történelem II/4. II. Lajos uralkodása pt. 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. II. Lajos uralkodása pt. 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,12 +214,14 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "f279572f7b3eaedc",
+  "active": "7270876dbb6a5d30",
   "lastOpenFiles": [
-    "Irodalom/8. Petőfi Sándor pályaszakasza és ars poeticái.md",
-    "Irodalom/9. Petőfi Sándor és a romantikus szabadságeszmény.md",
-    "Nyelvtan/7. Művészi kommunikáció.md",
     "Töri/3. Magyar történelem II/2. II. Lajos uralkodása.md",
+    "Töri/3. Magyar történelem II/4. II. Lajos uralkodása pt. 2.md",
+    "Töri/3. Magyar történelem II/3. Királyaink.md",
+    "Irodalom/9. Petőfi Sándor és a romantikus szabadságeszmény.md",
+    "Irodalom/8. Petőfi Sándor pályaszakasza és ars poeticái.md",
+    "Nyelvtan/7. Művészi kommunikáció.md",
     "Töri/3. Magyar történelem II/3. Idk idc tbh.md",
     "Nyelvtan/5. Stílus.md",
     "Nyelvtan/6. Szóképek.md",
@@ -213,8 +244,6 @@
     "Töri/2. Egyetemes történelem/5. Bőrze.md",
     "Töri/0. Info.md",
     "Töri/2. Egyetemes történelem/1. Nagy földrajzi felfedezések.md",
-    "Töri/2. Egyetemes történelem/4. Kapitalizmus.md",
-    "Töri/2. Egyetemes történelem/3. Földrajzi felfedezések gazdasági és társadalmi hatásai.md",
     "Töri/1. Magyar történelem",
     "Töri/2. Egyetemes történelem",
     "gitignore",
