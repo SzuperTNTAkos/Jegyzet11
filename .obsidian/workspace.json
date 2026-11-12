@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f279572f7b3eaedc",
+            "id": "83221bc41d26e72b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Irodalom/9. Petőfi Sándor és a romantikus szabadságeszmény.md",
+                "file": "Irodalom/10. Petőfi Sándor életútja.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Petőfi Sándor és a romantikus szabadságeszmény"
-            }
-          },
-          {
-            "id": "68899593644503b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/3. Magyar történelem II/3. Királyaink.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Királyaink"
-            }
-          },
-          {
-            "id": "7270876dbb6a5d30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Irodalom/9. Petőfi Sándor és a romantikus szabadságeszmény.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. Petőfi Sándor és a romantikus szabadságeszmény"
-            }
-          },
-          {
-            "id": "f88225085e420fb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/3. Magyar történelem II/5. Mohácsi csata.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Mohácsi csata"
-            }
-          },
-          {
-            "id": "ad21735d44a0526a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Töri/3. Magyar történelem II/5. Mohácsi csata.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Mohácsi csata"
+              "title": "10. Petőfi Sándor életútja"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,22 +185,24 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "ad21735d44a0526a",
+  "active": "83221bc41d26e72b",
   "lastOpenFiles": [
-    "Magyaország_feloszlása.md",
+    "szoveggyujtemeny.pdf",
+    "graphviz template.md",
+    "Irodalom/10. Petőfi Sándor életútja.md",
+    "Irodalom/9. Petőfi Sándor és a romantikus szabadságeszmény.md",
+    "Nyelvtan/7. Művészi kommunikáció.md",
     "Töri/3. Magyar történelem II/5. Mohácsi csata.md",
+    "Magyaország_feloszlása.md",
     "Töri/Excalidraw/Magyarország_feloszlása.md",
     "Töri/Excalidraw",
-    "Irodalom/9. Petőfi Sándor és a romantikus szabadságeszmény.md",
     "Töri/3. Magyar történelem II/4. II. Lajos uralkodása pt. 2.md",
     "Töri/3. Magyar történelem II/2. II. Lajos uralkodása.md",
     "Töri/3. Magyar történelem II/3. Királyaink.md",
     "Irodalom/8. Petőfi Sándor pályaszakasza és ars poeticái.md",
-    "Nyelvtan/7. Művészi kommunikáció.md",
     "Töri/3. Magyar történelem II/3. Idk idc tbh.md",
     "Nyelvtan/5. Stílus.md",
     "Nyelvtan/6. Szóképek.md",
-    "szoveggyujtemeny.pdf",
     "Irodalom/7. Petőfi Sándor.md",
     "Irodalom/5. Csongor és Tünde.md",
     "Töri/3. Magyar történelem II/1. Mohácsi vész.md",
@@ -268,11 +213,8 @@
     "Nyelvtan/3. Stílusrétegek.md",
     "Töri/2. Egyetemes történelem/9. Vallásháborúk.md",
     "Töri/3. Magyar történelem II",
-    "graphviz template.md",
     "Irodalom/4. Vörösmarty Mihály.md",
     "Nyelvtan/4. A nonverbális kommunikáció.md",
-    "Nyelvtan/2. Nyelv.md",
-    "Irodalom/3. Kölcsey Ferenc lírája.md",
     "Töri/1. Magyar történelem",
     "Töri/2. Egyetemes történelem",
     "gitignore",
