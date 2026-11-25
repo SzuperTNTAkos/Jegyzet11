@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "9. Erdélyi Fejedelemség"
             }
+          },
+          {
+            "id": "c6e31cc4c3600b52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Töri/3. Magyar történelem II/10. Bocskai Feladatok.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Bocskai Feladatok"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -242,10 +256,11 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "979c273e9f5f0061",
+  "active": "238ab6f55a6a49fc",
   "lastOpenFiles": [
-    "Töri/3. Magyar történelem II/8. Török Hódoltság és Erdélyi Fejedelemség.md",
     "Töri/3. Magyar történelem II/9. Erdélyi Fejedelemség.md",
+    "Töri/3. Magyar történelem II/10. Bocskai Feladatok.md",
+    "Töri/3. Magyar történelem II/8. Török Hódoltság és Erdélyi Fejedelemség.md",
     "Töri/3. Magyar történelem II/7. A három országrész berendezkedése.md",
     "Töri/3. Magyar történelem II/6. Mohácsi csata II..md",
     "Töri/3. Magyar történelem II/5. Mohácsi csata.md",
@@ -271,7 +286,6 @@
     "Töri/2. Egyetemes történelem/7. Luther Márton.md",
     "Irodalom/6. Rapszódia.md",
     "Töri/2. Egyetemes történelem/6. Reformáció.md",
-    "Nyelvtan/3. Stílusrétegek.md",
     "Töri/3. Magyar történelem II",
     "Töri/1. Magyar történelem",
     "Töri/2. Egyetemes történelem",
