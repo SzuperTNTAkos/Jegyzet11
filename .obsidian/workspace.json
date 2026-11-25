@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "10. Bocskai Feladatok"
             }
+          },
+          {
+            "id": "620718eecb1b9191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11. Betlen Gábor fejedelemége.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. Betlen Gábor fejedelemége"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -256,10 +270,11 @@
       "ketcher:Create new structure": false
     }
   },
-  "active": "238ab6f55a6a49fc",
+  "active": "620718eecb1b9191",
   "lastOpenFiles": [
-    "Töri/3. Magyar történelem II/9. Erdélyi Fejedelemség.md",
     "Töri/3. Magyar történelem II/10. Bocskai Feladatok.md",
+    "11. Betlen Gábor fejedelemége.md",
+    "Töri/3. Magyar történelem II/9. Erdélyi Fejedelemség.md",
     "Töri/3. Magyar történelem II/8. Török Hódoltság és Erdélyi Fejedelemség.md",
     "Töri/3. Magyar történelem II/7. A három országrész berendezkedése.md",
     "Töri/3. Magyar történelem II/6. Mohácsi csata II..md",
@@ -285,7 +300,6 @@
     "Töri/2. Egyetemes történelem/8. Vallásirányzatok.md",
     "Töri/2. Egyetemes történelem/7. Luther Márton.md",
     "Irodalom/6. Rapszódia.md",
-    "Töri/2. Egyetemes történelem/6. Reformáció.md",
     "Töri/3. Magyar történelem II",
     "Töri/1. Magyar történelem",
     "Töri/2. Egyetemes történelem",
